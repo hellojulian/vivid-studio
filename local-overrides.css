@@ -1,0 +1,7 @@
+/* Suppress the badge even if the vendored runtime recreates its container. */
+#__framer-badge-container,
+.__framer-badge {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
