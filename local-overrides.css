@@ -5,3 +5,16 @@
   visibility: hidden !important;
   pointer-events: none !important;
 }
+
+/* Feature media must not expose inactive variant defaults during transitions. */
+.framer-TMtq7 .framer-1jf8le2,
+.framer-TMtq7 .framer-9bqslr { visibility: hidden !important; }
+.framer-TMtq7.framer-v-185nnaz .framer-1jf8le2,
+.framer-TMtq7.framer-v-1qm4osm .framer-9bqslr {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.framer-TMtq7.framer-v-1istesh .framer-1khsb14,
+.framer-TMtq7.framer-v-1qm4osm .framer-1khsb14,
+.framer-TMtq7.framer-v-185nnaz .framer-1khsb14 { visibility: hidden !important; }
