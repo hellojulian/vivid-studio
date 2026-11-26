@@ -1,0 +1,520 @@
+{
+  "source": "https://delightful-shortbread-861619.framer.app/",
+  "downloaded_assets": [
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2",
+      "bytes": 24812
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2",
+      "bytes": 24596
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2",
+      "bytes": 24980
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "bytes": 22216
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2",
+      "bytes": 22196
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "bytes": 21872
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGc.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGc.woff2",
+      "bytes": 15272
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV36TGc5pg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV36TGc5pg.woff2",
+      "bytes": 8176
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2",
+      "bytes": 24848
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2",
+      "bytes": 24632
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2",
+      "bytes": 24944
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "bytes": 22204
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR232VGM.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR232VGM.woff2",
+      "bytes": 7432
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW32.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW32.woff2",
+      "bytes": 14304
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2",
+      "bytes": 22196
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "local": "assets/fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "bytes": 21828
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj-x19MnL2jg.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj-x19MnL2jg.woff2",
+      "bytes": 23192
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj-x19MnL2jg.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj-x19MnL2jg.woff2",
+      "bytes": 23416
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhOp-j94InI.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhOp-j94InI.woff2",
+      "bytes": 21912
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhOp-j94InI.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhOp-j94InI.woff2",
+      "bytes": 21752
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+      "bytes": 20296
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZqljm0U0.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZqljm0U0.woff2",
+      "bytes": 11828
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj-x19MnL2jg.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj-x19MnL2jg.woff2",
+      "bytes": 23276
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj-x19MnL2jg.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj-x19MnL2jg.woff2",
+      "bytes": 23412
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhOp-j94InI.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhOp-j94InI.woff2",
+      "bytes": 21796
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhOp-j94InI.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhOp-j94InI.woff2",
+      "bytes": 21800
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+      "bytes": 22036
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjqyUnwrw.woff2",
+      "local": "assets/fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjqyUnwrw.woff2",
+      "bytes": 12888
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATjnTNgNq55w.woff2",
+      "local": "assets/fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATjnTNgNq55w.woff2",
+      "bytes": 27772
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo.woff2",
+      "local": "assets/fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo.woff2",
+      "bytes": 12384
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M.woff2",
+      "local": "assets/fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M.woff2",
+      "bytes": 22128
+    },
+    {
+      "source": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "local": "assets/framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "bytes": 8896
+    },
+    {
+      "source": "https://framerusercontent.com/assets/6d6lHFmYOt0OnlHj7UyEpQ66Z8M.png",
+      "local": "assets/framerusercontent.com/assets/6d6lHFmYOt0OnlHj7UyEpQ66Z8M.png",
+      "bytes": 284443
+    },
+    {
+      "source": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "local": "assets/framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "bytes": 7116
+    },
+    {
+      "source": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "local": "assets/framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "bytes": 27380
+    },
+    {
+      "source": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "local": "assets/framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "bytes": 25348
+    },
+    {
+      "source": "https://framerusercontent.com/assets/MLWPbW1dUQawJLhhun3dBwpgJak.mp4",
+      "local": "assets/framerusercontent.com/assets/MLWPbW1dUQawJLhhun3dBwpgJak.mp4",
+      "bytes": 1741729
+    },
+    {
+      "source": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "local": "assets/framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "bytes": 6652
+    },
+    {
+      "source": "https://framerusercontent.com/assets/Q0OfITVEfYXNXiAqqCuoyTriTI.mp4",
+      "local": "assets/framerusercontent.com/assets/Q0OfITVEfYXNXiAqqCuoyTriTI.mp4",
+      "bytes": 1853277
+    },
+    {
+      "source": "https://framerusercontent.com/assets/TLFJn5MUBGGvBUhB0MtBafodB1g.jpg",
+      "local": "assets/framerusercontent.com/assets/TLFJn5MUBGGvBUhB0MtBafodB1g.jpg",
+      "bytes": 1637612
+    },
+    {
+      "source": "https://framerusercontent.com/assets/WCbWXMIJFzbNYrm9Z2yZkI9nk.jpg",
+      "local": "assets/framerusercontent.com/assets/WCbWXMIJFzbNYrm9Z2yZkI9nk.jpg",
+      "bytes": 770443
+    },
+    {
+      "source": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "local": "assets/framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "bytes": 4504
+    },
+    {
+      "source": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "local": "assets/framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "bytes": 4168
+    },
+    {
+      "source": "https://framerusercontent.com/assets/kDv8HTjnEtErjGJjA5mmSv0evU.mp4",
+      "local": "assets/framerusercontent.com/assets/kDv8HTjnEtErjGJjA5mmSv0evU.mp4",
+      "bytes": 4358054
+    },
+    {
+      "source": "https://framerusercontent.com/images/3OCbXFdJTYTCTHEqW16V7txwkFE.png?width=2098&height=1628",
+      "local": "assets/framerusercontent.com/images/3OCbXFdJTYTCTHEqW16V7txwkFE-dd874d7200b7.png",
+      "bytes": 553479
+    },
+    {
+      "source": "https://framerusercontent.com/images/5ILRvlYXf72kHSVHqpa3snGzjU.jpg",
+      "local": "assets/framerusercontent.com/images/5ILRvlYXf72kHSVHqpa3snGzjU.jpg",
+      "bytes": 44557
+    },
+    {
+      "source": "https://framerusercontent.com/images/6d6lHFmYOt0OnlHj7UyEpQ66Z8M.png",
+      "local": "assets/framerusercontent.com/images/6d6lHFmYOt0OnlHj7UyEpQ66Z8M.png",
+      "bytes": 102748
+    },
+    {
+      "source": "https://framerusercontent.com/images/6mcf62RlDfRfU61Yg5vb2pefpi4.png?width=256&height=256",
+      "local": "assets/framerusercontent.com/images/6mcf62RlDfRfU61Yg5vb2pefpi4-0c737f268b4d.png",
+      "bytes": 35429
+    },
+    {
+      "source": "https://framerusercontent.com/images/6pkD1bS1s9ydKaGTMLGpunICVcg.jpg?width=2000&height=1513",
+      "local": "assets/framerusercontent.com/images/6pkD1bS1s9ydKaGTMLGpunICVcg-e8fcb25701de.jpg",
+      "bytes": 627100
+    },
+    {
+      "source": "https://framerusercontent.com/images/76sU80H2YqFuQ1TbqQYcA93O2c.png?width=2098&height=1628",
+      "local": "assets/framerusercontent.com/images/76sU80H2YqFuQ1TbqQYcA93O2c-dd874d7200b7.png",
+      "bytes": 296424
+    },
+    {
+      "source": "https://framerusercontent.com/images/8hrQRJg38Hm2kHNriBfH3juMO4.jpg?width=2000&height=1514",
+      "local": "assets/framerusercontent.com/images/8hrQRJg38Hm2kHNriBfH3juMO4-0c44cf33e82e.jpg",
+      "bytes": 852030
+    },
+    {
+      "source": "https://framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw.png?scale-down-to=1024&width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw-934ff13fd251.png",
+      "bytes": 273735
+    },
+    {
+      "source": "https://framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw.png?scale-down-to=2048&width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw-e7ed5379f0d5.png",
+      "bytes": 1417538
+    },
+    {
+      "source": "https://framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw.png?scale-down-to=512&width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw-323c6296676b.png",
+      "bytes": 66186
+    },
+    {
+      "source": "https://framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw.png?width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/C4uPXNHlXVWmPdgxhH9t1e1Hw-110fd9d66fb6.png",
+      "bytes": 2274050
+    },
+    {
+      "source": "https://framerusercontent.com/images/CLFfiznUzWwX0mUhzVSMtTE3vY.jpg?width=1280&height=1280",
+      "local": "assets/framerusercontent.com/images/CLFfiznUzWwX0mUhzVSMtTE3vY-61d413810ce0.jpg",
+      "bytes": 169512
+    },
+    {
+      "source": "https://framerusercontent.com/images/EBVkZB47S2ZyLqyzzTXgStj4NnA.png?width=300&height=302",
+      "local": "assets/framerusercontent.com/images/EBVkZB47S2ZyLqyzzTXgStj4NnA-a841fa03f043.png",
+      "bytes": 11790
+    },
+    {
+      "source": "https://framerusercontent.com/images/FM52HuMNxK1mIwTnHRTcUVOWXk.png?scale-down-to=512&width=800&height=800",
+      "local": "assets/framerusercontent.com/images/FM52HuMNxK1mIwTnHRTcUVOWXk-1b356668720b.png",
+      "bytes": 70281
+    },
+    {
+      "source": "https://framerusercontent.com/images/FM52HuMNxK1mIwTnHRTcUVOWXk.png?width=800&height=800",
+      "local": "assets/framerusercontent.com/images/FM52HuMNxK1mIwTnHRTcUVOWXk-3cce5210d8c9.png",
+      "bytes": 141168
+    },
+    {
+      "source": "https://framerusercontent.com/images/LQT8glwoVhuqicFZrOU74mtdQ.jpg?width=640&height=640",
+      "local": "assets/framerusercontent.com/images/LQT8glwoVhuqicFZrOU74mtdQ-e5c501619a29.jpg",
+      "bytes": 67939
+    },
+    {
+      "source": "https://framerusercontent.com/images/Oa5XWzCxeOrnYG2m62cgAZq4LE.jpg?scale-down-to=1024&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/Oa5XWzCxeOrnYG2m62cgAZq4LE-c7bb182ff226.jpg",
+      "bytes": 92544
+    },
+    {
+      "source": "https://framerusercontent.com/images/Oa5XWzCxeOrnYG2m62cgAZq4LE.jpg?scale-down-to=512&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/Oa5XWzCxeOrnYG2m62cgAZq4LE-d2f98595d7e7.jpg",
+      "bytes": 31548
+    },
+    {
+      "source": "https://framerusercontent.com/images/Oa5XWzCxeOrnYG2m62cgAZq4LE.jpg?width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/Oa5XWzCxeOrnYG2m62cgAZq4LE-4df1b9082974.jpg",
+      "bytes": 98586
+    },
+    {
+      "source": "https://framerusercontent.com/images/Uz3DucbQrNKvaQced2GjUfqZg.png?width=2098&height=1628",
+      "local": "assets/framerusercontent.com/images/Uz3DucbQrNKvaQced2GjUfqZg-dd874d7200b7.png",
+      "bytes": 435621
+    },
+    {
+      "source": "https://framerusercontent.com/images/XhJpCTVwCAQqLgYv3uxlNdL3hM.jpg?scale-down-to=1024&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/XhJpCTVwCAQqLgYv3uxlNdL3hM-c7bb182ff226.jpg",
+      "bytes": 80977
+    },
+    {
+      "source": "https://framerusercontent.com/images/XhJpCTVwCAQqLgYv3uxlNdL3hM.jpg?scale-down-to=512&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/XhJpCTVwCAQqLgYv3uxlNdL3hM-d2f98595d7e7.jpg",
+      "bytes": 27670
+    },
+    {
+      "source": "https://framerusercontent.com/images/XhJpCTVwCAQqLgYv3uxlNdL3hM.jpg?width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/XhJpCTVwCAQqLgYv3uxlNdL3hM-4df1b9082974.jpg",
+      "bytes": 88224
+    },
+    {
+      "source": "https://framerusercontent.com/images/bEYHTLEMGSrPDYKasmCLGyydk.jpg?scale-down-to=1024&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/bEYHTLEMGSrPDYKasmCLGyydk-c7bb182ff226.jpg",
+      "bytes": 92616
+    },
+    {
+      "source": "https://framerusercontent.com/images/bEYHTLEMGSrPDYKasmCLGyydk.jpg?scale-down-to=512&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/bEYHTLEMGSrPDYKasmCLGyydk-d2f98595d7e7.jpg",
+      "bytes": 29772
+    },
+    {
+      "source": "https://framerusercontent.com/images/bEYHTLEMGSrPDYKasmCLGyydk.jpg?width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/bEYHTLEMGSrPDYKasmCLGyydk-4df1b9082974.jpg",
+      "bytes": 102861
+    },
+    {
+      "source": "https://framerusercontent.com/images/gl1AmAer8Gqr1XoceJt3QJT1X8.jpg?scale-down-to=1024&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/gl1AmAer8Gqr1XoceJt3QJT1X8-c7bb182ff226.jpg",
+      "bytes": 65036
+    },
+    {
+      "source": "https://framerusercontent.com/images/gl1AmAer8Gqr1XoceJt3QJT1X8.jpg?scale-down-to=512&width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/gl1AmAer8Gqr1XoceJt3QJT1X8-d2f98595d7e7.jpg",
+      "bytes": 23446
+    },
+    {
+      "source": "https://framerusercontent.com/images/gl1AmAer8Gqr1XoceJt3QJT1X8.jpg?width=1080&height=960",
+      "local": "assets/framerusercontent.com/images/gl1AmAer8Gqr1XoceJt3QJT1X8-4df1b9082974.jpg",
+      "bytes": 70605
+    },
+    {
+      "source": "https://framerusercontent.com/images/iU6czrWW4FA9m7KO2cHAd5mRYI.jpg?scale-down-to=1024&width=1124&height=640",
+      "local": "assets/framerusercontent.com/images/iU6czrWW4FA9m7KO2cHAd5mRYI-23c7219498e2.jpg",
+      "bytes": 90691
+    },
+    {
+      "source": "https://framerusercontent.com/images/iU6czrWW4FA9m7KO2cHAd5mRYI.jpg?scale-down-to=512&width=1124&height=640",
+      "local": "assets/framerusercontent.com/images/iU6czrWW4FA9m7KO2cHAd5mRYI-f564f74b6717.jpg",
+      "bytes": 32442
+    },
+    {
+      "source": "https://framerusercontent.com/images/iU6czrWW4FA9m7KO2cHAd5mRYI.jpg?width=1124&height=640",
+      "local": "assets/framerusercontent.com/images/iU6czrWW4FA9m7KO2cHAd5mRYI-3ade2697e712.jpg",
+      "bytes": 103847
+    },
+    {
+      "source": "https://framerusercontent.com/images/k1yD9Xystq9Xnjj1T0GzMYf4aq8.jpg?scale-down-to=512&width=640&height=640",
+      "local": "assets/framerusercontent.com/images/k1yD9Xystq9Xnjj1T0GzMYf4aq8-eff4b5373493.jpg",
+      "bytes": 48141
+    },
+    {
+      "source": "https://framerusercontent.com/images/k1yD9Xystq9Xnjj1T0GzMYf4aq8.jpg?width=640&height=640",
+      "local": "assets/framerusercontent.com/images/k1yD9Xystq9Xnjj1T0GzMYf4aq8-e5c501619a29.jpg",
+      "bytes": 67029
+    },
+    {
+      "source": "https://framerusercontent.com/images/k9rpWO1sLtG8iiQ3DPLipCWO4.jpg?scale-down-to=1024&width=1032&height=800",
+      "local": "assets/framerusercontent.com/images/k9rpWO1sLtG8iiQ3DPLipCWO4-1efbd48cc8a8.jpg",
+      "bytes": 75649
+    },
+    {
+      "source": "https://framerusercontent.com/images/k9rpWO1sLtG8iiQ3DPLipCWO4.jpg?scale-down-to=512&width=1032&height=800",
+      "local": "assets/framerusercontent.com/images/k9rpWO1sLtG8iiQ3DPLipCWO4-6a8e2034e242.jpg",
+      "bytes": 23972
+    },
+    {
+      "source": "https://framerusercontent.com/images/k9rpWO1sLtG8iiQ3DPLipCWO4.jpg?width=1032&height=800",
+      "local": "assets/framerusercontent.com/images/k9rpWO1sLtG8iiQ3DPLipCWO4-3c5e0d194323.jpg",
+      "bytes": 76765
+    },
+    {
+      "source": "https://framerusercontent.com/images/vMPFvBLn8yDbKE0M3V7cVPrcQ.jpg?scale-down-to=1024&width=1124&height=640",
+      "local": "assets/framerusercontent.com/images/vMPFvBLn8yDbKE0M3V7cVPrcQ-23c7219498e2.jpg",
+      "bytes": 100164
+    },
+    {
+      "source": "https://framerusercontent.com/images/vMPFvBLn8yDbKE0M3V7cVPrcQ.jpg?scale-down-to=512&width=1124&height=640",
+      "local": "assets/framerusercontent.com/images/vMPFvBLn8yDbKE0M3V7cVPrcQ-f564f74b6717.jpg",
+      "bytes": 36073
+    },
+    {
+      "source": "https://framerusercontent.com/images/vMPFvBLn8yDbKE0M3V7cVPrcQ.jpg?width=1124&height=640",
+      "local": "assets/framerusercontent.com/images/vMPFvBLn8yDbKE0M3V7cVPrcQ-3ade2697e712.jpg",
+      "bytes": 115634
+    },
+    {
+      "source": "https://framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I.png?scale-down-to=1024&width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I-934ff13fd251.png",
+      "bytes": 246212
+    },
+    {
+      "source": "https://framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I.png?scale-down-to=2048&width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I-e7ed5379f0d5.png",
+      "bytes": 1063228
+    },
+    {
+      "source": "https://framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I.png?scale-down-to=512&width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I-323c6296676b.png",
+      "bytes": 62439
+    },
+    {
+      "source": "https://framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I.png?width=2496&height=1664",
+      "local": "assets/framerusercontent.com/images/z0H6gpZldCu7jy15ioHuPyM4I-110fd9d66fb6.png",
+      "bytes": 1682126
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/9B-yp8XBHdztfk6DWvORa-KJwg_iKbq2iUTQ9acvKvM.cF3QGN2L.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/9B-yp8XBHdztfk6DWvORa-KJwg_iKbq2iUTQ9acvKvM.cF3QGN2L.mjs",
+      "bytes": 147252
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/Cq3-yRrkyg6Gls6z8p9kHYxpZdKcoHMY9tzXVc4SDNM.U1APg39v.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/Cq3-yRrkyg6Gls6z8p9kHYxpZdKcoHMY9tzXVc4SDNM.U1APg39v.mjs",
+      "bytes": 744
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/PX9hIOIVM.Dwf9j3xl.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/PX9hIOIVM.Dwf9j3xl.mjs",
+      "bytes": 20194
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/_XyKcSQiCud_vfw498_TVn-UkYOPh4Ul5L-Vk02ga6M.D7TAjRE1.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/_XyKcSQiCud_vfw498_TVn-UkYOPh4Ul5L-Vk02ga6M.D7TAjRE1.mjs",
+      "bytes": 9309
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/chunk.Dy1d_AYg.WUC1zJ0V.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/chunk.Dy1d_AYg.WUC1zJ0V.mjs",
+      "bytes": 22120
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/framer.Dj7QXDyi.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/framer.Dj7QXDyi.mjs",
+      "bytes": 391496
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/motion.C3gLSGvl.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/motion.C3gLSGvl.mjs",
+      "bytes": 154854
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/react.BgZEIVeh.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/react.BgZEIVeh.mjs",
+      "bytes": 145065
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/rolldown-runtime.Bi-D_2cA.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/rolldown-runtime.Bi-D_2cA.mjs",
+      "bytes": 244
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/script_main.DjZrcOKr.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/script_main.DjZrcOKr.mjs",
+      "bytes": 7090
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/searchIndex-DzT6seg19jwi.json",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/searchIndex-DzT6seg19jwi.json",
+      "bytes": 2218
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/searchIndex-ybHFxqAcoFUB.json",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/searchIndex-ybHFxqAcoFUB.json",
+      "bytes": 2218
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/shared-lib.CNILdNG9.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/shared-lib.CNILdNG9.mjs",
+      "bytes": 2219
+    },
+    {
+      "source": "https://framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/toplevel-deps.BKId9eh8.mjs",
+      "local": "assets/framerusercontent.com/sites/7kvVbs5jyckARuYgqaEqsj/toplevel-deps.BKId9eh8.mjs",
+      "bytes": 90860
+    },
+    {
+      "source": "https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2",
+      "local": "assets/framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2",
+      "bytes": 25596
+    }
+  ]
+}
